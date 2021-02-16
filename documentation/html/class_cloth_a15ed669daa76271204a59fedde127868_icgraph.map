@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_cloth.html#abdd2de6586d933a083b6e3242c7f3f87" title="method to create the cloth grid and its spring connections" alt="" coords="209,5,359,35"/>
+<area shape="rect" id="node5" href="$class_g_l_window.html#a63bda97683454fb9e57af4487fc57e7e" title="method to set number of cloth particles it emits a signal once it has been creating..." alt="" coords="409,5,625,35"/>
+<area shape="rect" id="node7" href="$class_g_l_window.html#acaaadd067331e969703dbd0f5b2011a8" title="to start simulation" alt="" coords="675,5,821,35"/>
+</map>

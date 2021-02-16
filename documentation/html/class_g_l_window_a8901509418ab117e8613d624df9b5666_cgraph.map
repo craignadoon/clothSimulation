@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_cloth.html#a98c53cc7b566cb175e25185e1355c503" title="Cloth::applyWindForce" alt="" coords="263,5,436,35"/>
+<area shape="rect" id="node5" href="$class_g_l_window.html#a13176d9a993618b05a0b47aa076696c0" title="method for cloth&#39;s collision with sphere" alt="" coords="233,59,465,88"/>
+<area shape="rect" id="node7" href="$class_g_l_window.html#a07353f58849d1ad5a675f738e66ca2e4" title="method to apply wind on cloth" alt="" coords="259,112,440,141"/>
+<area shape="rect" id="node9" href="$class_g_l_window.html#a9ed9f0d600a48b75d1dc1786e73d0d26" title="signal to reset the cloth to its initila state" alt="" coords="264,165,435,195"/>
+<area shape="rect" id="node11" href="$class_cloth.html#ad26926a8404ce36de4a540c38903a6b3" title="method to update the cloth&#45; forces(internal and external) and update the mass particles..." alt="" coords="273,219,425,248"/>
+<area shape="rect" id="node13" href="$class_cloth.html#acdcb21d1a164861da55d5ff238fff544" title="method to check for self collision detection between cloth mass particles to prevent..." alt="" coords="515,219,696,248"/>
+<area shape="rect" id="node15" href="$class_abstract_octree.html#aa12fa4d09ef005992b61bf9853478c4f" title="add a T into the tree, add the partile to all the leaves collide with" alt="" coords="756,165,967,195"/>
+<area shape="rect" id="node17" href="$class_abstract_octree.html#a5b6dc329a11f2cead34659007f8c62a6" title="check the collision for the Ts in each leaves" alt="" coords="745,219,977,248"/>
+<area shape="rect" id="node19" href="$class_abstract_octree.html#a6b57da99d6ae9154ab6183a96655759b" title="clear off all the Ts from the tree" alt="" coords="760,272,963,301"/>
+</map>

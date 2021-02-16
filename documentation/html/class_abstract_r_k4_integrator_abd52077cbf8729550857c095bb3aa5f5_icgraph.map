@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_cloth_spring.html#a8c797989f9629eedead0a5a03c38ccbd" title="method to get the position of cloth particle at end A from the integrator" alt="" coords="304,5,499,35"/>
+<area shape="rect" id="node7" href="$class_cloth_spring.html#ae990bff22ea49f1b2169dfc9129b16cb" title="method to get the position of cloth particle at end B from the integrator" alt="" coords="304,59,499,88"/>
+<area shape="rect" id="node5" href="$class_cloth.html#a213f8c391b3a666177c58dc4ca4994c4" title="Cloth::drawSpring" alt="" coords="548,32,687,61"/>
+</map>

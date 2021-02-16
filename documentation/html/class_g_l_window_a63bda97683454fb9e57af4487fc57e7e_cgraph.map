@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_g_l_window.html#a44b9cb8af77e13976f475774f3559692" title="signal emitted when the cloth has been created" alt="" coords="272,5,459,35"/>
+<area shape="rect" id="node5" href="$class_cloth.html#abdd2de6586d933a083b6e3242c7f3f87" title="method to create the cloth grid and its spring connections" alt="" coords="291,59,440,88"/>
+<area shape="rect" id="node7" href="$class_cloth.html#a15ed669daa76271204a59fedde127868" title="Cloth::createSpring" alt="" coords="507,59,661,88"/>
+</map>

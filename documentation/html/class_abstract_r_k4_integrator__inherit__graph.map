@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_cloth_particle.html" title="{ClothParticle\n|+ m_mass\l+ m_fixed\l+ m_force\l+ m_timestep\l+ m_t\l+ m_gravity\l|+ ClothParticle()\l+ ClothParticle()\l+ applyGravity()\l+ update()\l+ motionFunction()\l+ getPosition()\l+ getVelocity()\l+ setPosition()\l+ setVelocity()\l+ setFixed()\l+ setNotFixed()\l}" alt="" coords="36,262,185,607"/>
+</map>

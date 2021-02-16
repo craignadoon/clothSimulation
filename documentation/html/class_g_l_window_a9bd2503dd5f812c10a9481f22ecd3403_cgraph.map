@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_props.html#a7addd1444147b3de20fd076071a84a2e" title="method to draw the mesh, all tx must be executed before the call to draw" alt="" coords="277,5,379,35"/>
+<area shape="rect" id="node5" href="$class_cloth.html#a0d9edc32dee9ceaead679f3b904262d2" title="Draw method for drawing the cloth." alt="" coords="253,59,403,88"/>
+<area shape="rect" id="node9" href="$class_g_l_window.html#ab78209ce50dd6820686aa05fc242eb7a" title="method to load the tx stack (+MVP) to the shader" alt="" coords="205,112,451,141"/>
+<area shape="rect" id="node7" href="$class_cloth.html#aae971ca955a907ea2e76cf9b8e9b7c55" title="load all the transform values to the shader" alt="" coords="500,59,713,88"/>
+</map>

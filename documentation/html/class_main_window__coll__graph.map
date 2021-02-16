@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_g_l_window.html" title="our main glwindow widget for NGL applications all drawing elements are put in this..." alt="" coords="228,2361,457,3469"/>
+<area shape="rect" id="node4" href="$class_cloth.html" title="this class creates the cloth according to mass&#45;spring model it updates the cloth..." alt="" coords="127,1774,313,2293"/>
+<area shape="rect" id="node6" href="$class_cloth_particle.html" title="{ClothParticle\n|+ m_mass\l+ m_fixed\l+ m_force\l+ m_timestep\l+ m_t\l+ m_gravity\l|+ ClothParticle()\l+ ClothParticle()\l+ applyGravity()\l+ update()\l+ motionFunction()\l+ getPosition()\l+ getVelocity()\l+ setPosition()\l+ setVelocity()\l+ setFixed()\l+ setNotFixed()\l}" alt="" coords="64,1361,213,1706"/>
+<area shape="rect" id="node8" href="$class_abstract_r_k4_integrator.html" title="a simple base class to do RK4 integration this class then needs the motionFunction..." alt="" coords="5,1059,216,1266"/>
+<area shape="rect" id="node10" href="$class_state.html" title="a simple class to hold State values for the integrator, this is used for the derivitives..." alt="" coords="56,743,165,863"/>
+<area shape="rect" id="node12" href="$class_particle_octree.html" title="{ParticleOctree\n||+ ParticleOctree()\l+ checkCollisionOnNode()\l}" alt="" coords="284,1482,476,1585"/>
+<area shape="rect" id="node14" href="$class_abstract_octree.html" title="{AbstractOctree\&lt; ClothParticle, ngl::Vec3 \&gt;\n|# m_root\l|+ AbstractOctree()\l+ ~AbstractOctree()\l+ deleteTreeNode()\l+ createTree()\l+ addObject()\l+ checkBounds()\l+ checkBounds()\l+ checkBounds()\l+ addObjectToNode()\l+ clearTree()\l+ clearObjectFromNode()\l+ checkCollision()\l+ checkCollisionOnNode()\l}" alt="" coords="240,1016,557,1309"/>
+<area shape="rect" id="node16" href="$class_abstract_octree_1_1_tree_node.html" title="{AbstractOctree\&lt; T, VEC \&gt;::TreeNode\&lt; ClothParticle \&gt;\n|+ m_limit\l+ m_height\l+ m_objectList\l+ m_child\l|}" alt="" coords="47,451,441,589"/>
+<area shape="rect" id="node18" href="$class_abstract_octree_1_1_tree_node.html" title="{AbstractOctree\&lt; T, VEC \&gt;::TreeNode\&lt; V \&gt;\n|+ m_limit\l+ m_height\l+ m_objectList\l+ m_child\l|}" alt="" coords="256,246,573,383"/>
+<area shape="rect" id="node27" href="$class_abstract_octree_1_1_tree_node.html" title="{AbstractOctree\&lt; T, VEC \&gt;::TreeNode\&lt; T \&gt;\n|+ m_limit\l+ m_height\l+ m_objectList\l+ m_child\l|}" alt="" coords="465,451,780,589"/>
+<area shape="rect" id="node21" href="$class_bounding_box.html" title="{BoundingBox\n|+ m_minx\l+ m_maxx\l+ m_miny\l+ m_maxy\l+ m_minz\l+ m_maxz\l|}" alt="" coords="360,6,469,178"/>
+<area shape="rect" id="node25" href="$class_abstract_octree.html" title="this is the class for perfect octree tree, 3 levels," alt="" coords="417,656,620,949"/>
+<area shape="rect" id="node32" href="$class_props.html" title="{Props\n|&#45; m_props\l|+ Props()\l+ ~Props()\l+ addProp()\l+ addProp()\l+ getProp()\l+ draw()\l}" alt="" coords="337,1947,436,2119"/>
+</map>

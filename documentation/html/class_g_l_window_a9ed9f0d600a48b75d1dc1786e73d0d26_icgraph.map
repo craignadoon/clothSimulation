@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_g_l_window.html#a6bd424ce6523dce6bc51f67fe3e5263c" title="method to set the bool for applying wind on cloth" alt="" coords="244,5,433,35"/>
+<area shape="rect" id="node5" href="$class_g_l_window.html#ae5c31ffbff3e9509ed95ed8d6a3df2cc" title="method for cloth&#39;s collision with sphere" alt="" coords="228,59,449,88"/>
+<area shape="rect" id="node7" href="$class_g_l_window.html#abe54266e14e90e631cc07b7f0845454c" title="method for cloth&#39;s collision with table" alt="" coords="235,112,443,141"/>
+<area shape="rect" id="node9" href="$class_g_l_window.html#a8901509418ab117e8613d624df9b5666" title="timer event trigered by startTimer" alt="" coords="251,165,427,195"/>
+</map>

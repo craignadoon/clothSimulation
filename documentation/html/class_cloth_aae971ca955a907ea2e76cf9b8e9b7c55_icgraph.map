@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_cloth.html#a0d9edc32dee9ceaead679f3b904262d2" title="Draw method for drawing the cloth." alt="" coords="271,5,420,35"/>
+<area shape="rect" id="node5" href="$class_g_l_window.html#a9bd2503dd5f812c10a9481f22ecd3403" title="this is the main gl drawing routine which is called whenever the window needs to..." alt="" coords="471,5,620,35"/>
+</map>

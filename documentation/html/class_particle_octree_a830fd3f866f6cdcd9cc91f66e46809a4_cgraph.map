@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_cloth_particle.html#a18f8a7d33f5da4315b865fe848ba89c2" title="method to get cloth particle position as calculated in the integrator" alt="" coords="335,5,529,35"/>
+<area shape="rect" id="node5" href="$class_cloth_particle.html#ab6e2835b9325114e1c0b708e208466fc" title="method to get cloth particle velocity as calculated in the integrator" alt="" coords="333,59,531,88"/>
+<area shape="rect" id="node7" href="$class_cloth_particle.html#a3dfc2ea1d8553be49cd2b73f1879a6c2" title="method to set current cloth particle velocity in the integrator" alt="" coords="335,112,529,141"/>
+</map>

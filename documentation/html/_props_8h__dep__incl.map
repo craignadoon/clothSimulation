@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_props_8cpp.html" title="his class contains all meshes required in the simulation using this class, we load..." alt="" coords="5,83,91,112"/>
+<area shape="rect" id="node5" href="$_g_l_window_8h.html" title="a basic Qt GL window class where all the drawing and updating of objects takes place..." alt="" coords="115,83,216,112"/>
+<area shape="rect" id="node7" href="$_g_l_window_8cpp.html" title="class for main drawing operations and it integrates all the member classes for the..." alt="" coords="36,160,153,189"/>
+<area shape="rect" id="node9" href="$_main_window_8h.html" title="MainWindow.h" alt="" coords="177,160,292,189"/>
+<area shape="rect" id="node11" href="$main_8cpp.html" title="main.cpp" alt="" coords="128,237,211,267"/>
+<area shape="rect" id="node13" href="$_main_window_8cpp.html" title="main class for user interface and input output operations" alt="" coords="235,237,365,267"/>
+</map>

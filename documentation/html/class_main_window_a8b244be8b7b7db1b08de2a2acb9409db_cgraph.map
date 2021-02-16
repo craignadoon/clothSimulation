@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_main_window.html#a851793be1f0a4863f088edaf283cfe14" title="slot to toggle the sim on and off" alt="" coords="249,5,463,35"/>
+<area shape="rect" id="node5" href="$class_main_window.html#af6c491cbf160e3fa167e648f4f400d83" title="MainWindow::loadTexFile" alt="" coords="264,59,448,88"/>
+<area shape="rect" id="node7" href="$class_g_l_window.html#a79d0e2dc7ca155fd2745b5f0a518407a" title="method to texture file from UI" alt="" coords="513,59,719,88"/>
+</map>

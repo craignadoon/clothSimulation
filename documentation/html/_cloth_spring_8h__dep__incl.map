@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_cloth_spring_8cpp.html" title="class that create the Cloth&#39;s springs and calculates the internal spring forces..." alt="" coords="5,83,131,112"/>
+<area shape="rect" id="node5" href="$_cloth_8h.html" title="this class creates the cloth based on the mass&#45;spring model" alt="" coords="155,83,224,112"/>
+<area shape="rect" id="node7" href="$_cloth_8cpp.html" title="class creating and updating the cloth" alt="" coords="88,160,173,189"/>
+<area shape="rect" id="node9" href="$_g_l_window_8h.html" title="a basic Qt GL window class where all the drawing and updating of objects takes place..." alt="" coords="197,160,299,189"/>
+<area shape="rect" id="node11" href="$_g_l_window_8cpp.html" title="class for main drawing operations and it integrates all the member classes for the..." alt="" coords="119,237,236,267"/>
+<area shape="rect" id="node13" href="$_main_window_8h.html" title="MainWindow.h" alt="" coords="260,237,375,267"/>
+<area shape="rect" id="node15" href="$main_8cpp.html" title="main.cpp" alt="" coords="211,315,293,344"/>
+<area shape="rect" id="node17" href="$_main_window_8cpp.html" title="main class for user interface and input output operations" alt="" coords="317,315,448,344"/>
+</map>
